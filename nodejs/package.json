@@ -1,0 +1,6 @@
+{
+	"name": "phpfox-shoutbox",
+	"dependencies": {
+		"socket.io": ">=1.3.5"
+	}
+}
