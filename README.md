@@ -3,7 +3,7 @@
 This is a small app developed for developers to show how to connect a PHPfox community to a NodeJS app, which in this case uses
 socket.io to create a shoutbox on a clients index page.
 
-![](http://i.share.pho.to/679c66dd_o.png)
+![](/assets/shoutbox.png)
 
 ## Setup
 
