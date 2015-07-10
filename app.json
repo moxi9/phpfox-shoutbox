@@ -2,6 +2,7 @@
 	"id": "PHPfox_Shoutbox",
 	"name": "Shoutbox",
 	"version": "1.0",
+	"icon": "http://d2h79mkp7etn4r.cloudfront.net/icon/2015/07/f95347e982e1f098f4611c2afc8aeb18.png",
 	"settings": {
 		"node_js_server": {
 			"info": "NodeJS URL",

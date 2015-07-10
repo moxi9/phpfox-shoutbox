@@ -53,6 +53,11 @@ var cleanHTML = function(text) {
 $Ready(function() {
 	var s = $('#shoutbox-js'), b = $('#right ._block'), u = $('#auth-user');
 
+	if (!node_js_server) {
+		p('NodeJS server not set.');
+		return;
+	}
+
 	// If user is not logged in, lets ignore this routine
 	if (!u.length) {
 		return;
